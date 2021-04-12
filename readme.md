@@ -11,7 +11,7 @@
 
 # :wave: 팀원소개
 
-<img src="/uploads/dcf8d833788e4564ab4e3a04212c684b/team.PNG" width="800px" height="300px">&emsp;
+<img src="https://user-images.githubusercontent.com/42925284/114343726-7af35100-9b99-11eb-8e45-d56aca1b1622.PNG" width="800px" height="300px">&emsp;
 
 ## :cd: 설치방법
 
