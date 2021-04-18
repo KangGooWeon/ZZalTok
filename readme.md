@@ -45,10 +45,10 @@ Jenkins 파이프라인을 위한 스크립트를 사용합니다. 해당 문서
 ## :mag: 기능소개
 
 ### 얼굴 체인지
-![3](https://user-images.githubusercontent.com/57394523/115139800-f4de7b00-a06e-11eb-9d64-d5888aa3de11.gif)
+![2](https://user-images.githubusercontent.com/57394523/115139802-f60fa800-a06e-11eb-81b4-f239c227f710.gif)
 
 ### 다메다메 영상 만들기
-![2](https://user-images.githubusercontent.com/57394523/115139802-f60fa800-a06e-11eb-81b4-f239c227f710.gif)
+![3](https://user-images.githubusercontent.com/57394523/115139800-f4de7b00-a06e-11eb-9d64-d5888aa3de11.gif)
 
 ### 동영상 배경 변경하기
 ![4](https://user-images.githubusercontent.com/57394523/115139804-f740d500-a06e-11eb-8414-669652482e14.gif)
