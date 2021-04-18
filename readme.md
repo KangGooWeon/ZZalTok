@@ -11,7 +11,8 @@
 
 # :wave: 팀원소개
 
-<img src="https://user-images.githubusercontent.com/42925284/114343726-7af35100-9b99-11eb-8e45-d56aca1b1622.PNG" width="800px" height="300px">&emsp;
+![team](https://user-images.githubusercontent.com/57394523/115139785-e3956e80-a06e-11eb-8b48-3593dcd7580d.PNG)
+
 
 ## :cd: 설치방법
 
@@ -43,16 +44,25 @@ Jenkins 파이프라인을 위한 스크립트를 사용합니다. 해당 문서
 
 ## :mag: 기능소개
 
-### 주요 3기능 - 얼굴 체인지, 다메다메 영상, 나만의 배경 기능
 
-<img src="/uploads/6f2cb9d337511a82cf8d02525fba5e73/3.gif" width="30%" height="300"></img>
-<img src="/uploads/32af7c3d15bb992614cf69c004f429e3/2.gif" width="30%" height="300"></img>
-<img src="/uploads/6d568150ae68cff9155e4a05237edc5c/4.gif" width="30%" height="300"></img>
+### 얼굴 체인지
+![3](https://user-images.githubusercontent.com/57394523/115139800-f4de7b00-a06e-11eb-9d64-d5888aa3de11.gif)
 
-### 짤 공유 기능, 게시글 댓글 쓰기 기능
+### 다메다메 영상 만들기
+![2](https://user-images.githubusercontent.com/57394523/115139802-f60fa800-a06e-11eb-81b4-f239c227f710.gif)
 
-<img src="/uploads/2780bc02d80e99e51493a4c5927bc05e/5.gif" width="45%"></img>
-<img src="/uploads/d8b79ac593b0ec3472fc7fa349167063/6.gif" width="45%"></img>
+## 동영상 배경 변경하기
+![4](https://user-images.githubusercontent.com/57394523/115139804-f740d500-a06e-11eb-8414-669652482e14.gif)
+
+## 짤 공유 기능
+![5](https://user-images.githubusercontent.com/57394523/115139838-2fe0ae80-a06f-11eb-8d9c-c13ea2e7ab4c.gif)
+
+## 게시글 기능
+![6](https://user-images.githubusercontent.com/57394523/115139839-31aa7200-a06f-11eb-8af5-d6dd26cdb6a5.gif)
+
+
+
+
 
 ## :loudspeaker: 기여
 
