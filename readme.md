@@ -44,6 +44,9 @@ Jenkins 파이프라인을 위한 스크립트를 사용합니다. 해당 문서
 
 ## :mag: 기능소개
 
+### 메인페이지
+![ezgif-7-bc81ac1e98cb](https://user-images.githubusercontent.com/42925284/115750439-2343b980-a3d3-11eb-9fae-42d19f3b113d.gif)
+
 ### 얼굴 체인지
 ![2](https://user-images.githubusercontent.com/57394523/115139802-f60fa800-a06e-11eb-81b4-f239c227f710.gif)
 
@@ -58,7 +61,6 @@ Jenkins 파이프라인을 위한 스크립트를 사용합니다. 해당 문서
 
 ### 게시글 기능
 ![6](https://user-images.githubusercontent.com/57394523/115139839-31aa7200-a06f-11eb-8af5-d6dd26cdb6a5.gif)
-
 
 
 
